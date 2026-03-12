@@ -1,9 +1,12 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11605.240 stable
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buscompany.UnitTests", "Buscompany.UnitTests\Buscompany.UnitTests.csproj", "{8A6AF5DE-4A26-4B45-B0BF-7A3D4B842029}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusCompany", "BusCompany\BusCompany.csproj", "{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReqnrollProject1", "ReqnrollProject1\ReqnrollProject1.csproj", "{2CFBAB25-7A09-4E72-B8E0-0B910C99E552}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,5 +22,15 @@ Global
 		{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFBAB25-7A09-4E72-B8E0-0B910C99E552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFBAB25-7A09-4E72-B8E0-0B910C99E552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFBAB25-7A09-4E72-B8E0-0B910C99E552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFBAB25-7A09-4E72-B8E0-0B910C99E552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B072E8B7-4577-4566-ACA0-3E0DD2401C33}
 	EndGlobalSection
 EndGlobal
